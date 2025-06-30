@@ -35,7 +35,7 @@ class SubarrayMinSum {
         }
         return nse;
     }
-    public int sumSubarrayMins(int[] arr) {
+    public static int sumSubarrayMins(int[] arr) {
         int [] left=previousSmaller(arr);
         int [] right=nextSmaller(arr);
         long sum=0;
