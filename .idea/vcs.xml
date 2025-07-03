@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Swing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Swing1.java" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/Swing" vcs="Git" />
   </component>
 </project>
